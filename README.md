@@ -1,53 +1,92 @@
-# 🌍 Global Health Education Index
+![Cover](visuals/cover.png)
 
-Analysis of education and health indicators across countries to identify inequality patterns, development gaps, and high-level global trends.
+# 🌍 Global Health & Education Index
 
-## Live Demo
-Coming soon
+> Global analysis of health and education outcomes across 104 countries to identify which nations deliver the best results per dollar invested.
 
-## Overview
+---
 
-This project explores the relationship between education and health indicators across countries using Python and Streamlit.
+## 🌐 Live Demo
 
-The goal is to identify:
-- global inequality patterns
-- development gaps across countries
-- relationships between education and health outcomes
-- country-level ranking opportunities for policy analysis
+👉 Coming soon
 
-## Dataset
+---
 
-- Source: Global health and education indicators dataset
-- Scope: Cross-country analysis
-- Format: CSV
-- Main file: `global_health_education.csv`
+## 🎯 Overview
 
-## Project Files
+Analyze the relationship between education and health indicators across countries to identify global inequality patterns, development gaps, and structural efficiency differences.
 
-- `app.py` → main Streamlit app
-- `app_global_health.py` → English app version / previous version
-- `app_saude_educacao_pt.py` → Portuguese version
-- `global_health_education.csv` → dataset
-- `global_health_education_report.pdf` → project report in English
-- `indice_saude_educacao_relatorio.pdf` → project report in Portuguese
-- `requirements.txt` → project dependencies
+This project combines:
+- data analysis  
+- predictive modeling  
+- clustering  
+- policy-oriented insights  
 
-## What This Project Shows
+---
 
-- data exploration
-- cross-country comparison
-- relationship between education and health indicators
-- dashboard-style storytelling with Streamlit
-- business/policy-oriented analytical communication
+## 📊 Project Scope
 
-## Tech Stack
+- **Countries:** 104  
+- **Period:** 2000–2022  
+- **Data sources:** World Bank, WHO, Our World in Data  
+- **Records:** 2,392 country-year observations  
 
-- Python
-- Pandas
-- Matplotlib
-- Streamlit
+---
 
-## How to Run
+## 🧠 Key Insights
+
+- Literacy rate is the strongest predictor of life expectancy (corr = 0.81)  
+- High spending does not guarantee better health outcomes (USA vs Singapore)  
+- Brazil spends at G7 levels but underperforms due to inefficiency  
+- Global infant mortality dropped 47%, but inequality remains  
+
+---
+
+## 🧪 What This Project Includes
+
+- Full exploratory analysis  
+- Cross-country comparison  
+- Predictive model (R² ≈ 0.76)  
+- K-Means clustering (4 country profiles)  
+- Policy recommendations  
+
+---
+
+## 🖥️ App Structure
+
+The Streamlit app includes:
+
+- Executive summary  
+- Data understanding  
+- Health analysis  
+- Education analysis  
+- Country clustering  
+- Predictive model  
+- Brazil deep-dive  
+- Policy recommendations  
+
+---
+
+## 📸 Visuals
+
+![Dashboard](visuals/dashboard.png)  
+![Chart](visuals/chart_01.png)  
+![Chart](visuals/chart_02.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+- Streamlit  
+
+---
+
+## 🚀 Run Locally
 
 ```bash
 pip install -r requirements.txt
