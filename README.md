@@ -8,8 +8,7 @@
 
 ## 🌐 Live Demo
 
-👉 Coming soon
-
+https://global-health-education-index-fzs7kd3mix3urxeerz6mma.streamlit.app/
 ---
 
 ## 🎯 Overview
