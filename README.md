@@ -91,3 +91,19 @@ The Streamlit app includes:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📈 Business Value
+
+This project demonstrates how data analysis can:
+
+- identify inefficiencies in public systems  
+- reveal structural inequality across countries  
+- support policy decision-making  
+- transform raw indicators into actionable insights  
+
+---
+
+## 📬 Contact
+
+Bruno Barradas  
+https://github.com/Bruno-Barradas
