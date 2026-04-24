@@ -11,7 +11,7 @@
 https://global-health-education-index-6m95ies7piaxjesb5n4dmm.streamlit.app/
 
 em português:
-
+https://global-health-education-index-pvh9avrzlctrbo22v9kkdb.streamlit.app/
 
 ---
 
