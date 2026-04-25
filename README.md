@@ -73,8 +73,9 @@ The Streamlit app includes:
 ## 📸 Visuals
 
 ![Dashboard](visuals/dashboard.png)  
-![Chart](visuals/chart_01.png)  
-![Chart](visuals/chart_02.png)
+![Health Analysis](visuals/chart_01.png)  
+![Education Analysis](visuals/chart_02.png)  
+![Country Clusters](visuals/chart_03.png)
 
 ---
 
